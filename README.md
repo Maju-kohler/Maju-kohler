@@ -1,9 +1,9 @@
 ### Howdie Player! 👋
 <img src="readme.png">
 
-- 🌱 I’m currently learning **Javascript and PHP!**
-- 👯 I’m looking to collaborate on **anything I can help!**
-- 🤔 I’m looking for help with **React**, It's kind of hard...
+- 🌱 I’m currently learning **IA Tecnologies and Java!**
+- 👯 I’m looking to collaborate on **Open sources projects!**
+- 🤔 I’m looking for help with **LLMs Principles**, It's kind of hard...
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **mariajuliakohler@gmail.com**
 - ⚡ Fun fact: **I'm not good at any kind of games, but I play anyway :D**
